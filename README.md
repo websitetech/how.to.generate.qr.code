@@ -2,7 +2,7 @@
 
 
 
-[![how to generate qr code](redd.png)](https://github.com/websitetech/how.to.generate.qr.code)
+[![how to generate qr code](redd.png)](https://icncomputer.com/how-to-generate-qr-code/)
 
 QR codes — or "Quick Response" codes — are square-shaped barcodes that can be scanned by mobile devices. They are used for a variety of applications, from pulling up a restaurant menu to directing people to a podcast.
 
